@@ -40,3 +40,8 @@ projects[legestue_net][type] = "profile"
 projects[legestue_net][download][type] = "git"
 projects[legestue_net][download][url] = "git://github.com/lsolesen/legestue.net.git"
 projects[legestue_net][download][branch] = "7.x-1.x"
+
+projects[teambuilder_vih_dk][type] = "profile"
+projects[teambuilder_vih_dk][download][type] = "git"
+projects[teambuilder_vih_dk][download][url] = "git://github.com/lsolesen/teambuilder.vih.dk.git"
+projects[teambuilder_vih_dk][download][branch] = "7.x-1.x"
