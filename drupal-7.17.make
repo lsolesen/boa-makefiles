@@ -35,3 +35,8 @@ projects[hampenhallen_dk][type] = "profile"
 projects[hampenhallen_dk][download][type] = "git"
 projects[hampenhallen_dk][download][url] = "git://github.com/hampen/hampenhallen-deploy.git"
 projects[hampenhallen_dk][download][branch] = "7.x-1.x"
+
+projects[legestue_net][type] = "profile"
+projects[legestue_net][download][type] = "git"
+projects[legestue_net][download][url] = "git://github.com/lsolesen/legestue.net.git"
+projects[legestue_net][download][branch] = "7.x-1.x"
